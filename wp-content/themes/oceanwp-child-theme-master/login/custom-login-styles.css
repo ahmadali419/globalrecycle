@@ -1,0 +1,68 @@
+body.login {
+  background-image: url('../../../../../manolis-liolios.com/wp-content/uploads/2018/09/5015.png');
+  background-repeat:repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.login h1 a {
+width:320px;
+height:84px;
+margin-left:0px;
+margin-right:0px;
+  background-image: url('../../../../../manolis-liolios.com/wp-content/uploads/2018/09/godspeed-logo.png');
+	background-size:320px 84px;
+}
+.login label {
+  font-size: 12px;
+  color: #555555;
+}
+
+.login input[type="text"]{
+  background-color: #ffffff;
+  border-color:#dddddd;
+  -webkit-border-radius: 4px;
+}
+
+.login input[type="password"]{
+  background-color: #ffffff;
+  border-color:#dddddd;
+  -webkit-border-radius: 4px;
+}
+.login .button-primary {
+  width: 120px;
+  float:right;
+  background-color:#0eb290 !important;
+  color: #ffffff;
+  -webkit-border-radius: 4px;
+  border: 1px solid #0eb290;
+}
+
+.login .button-primary:hover {
+  background-color:#0eb290 !important;
+  color: #fff;
+  -webkit-border-radius: 4px;
+  border: 1px solid #0eb290;
+}
+
+.login .button-primary:active {
+  background-color:#0eb290 !important;
+  color: #fff;
+  -webkit-border-radius: 4px;
+  border: 1px solid #0eb290;
+}
+
+
+p#nav{
+    background-color: white;
+    text-align: center;
+    padding: 10px 10px 10px 10px!important;
+}
+.login #login_error, .login .message, .login .success{
+	border-left: 4px solid #0eb290!important;
+}
+.login #backtoblog a:hover, .login #nav a:hover, .login h1 a:hover{
+	color:#0eb290!important;
+}
+.wp-core-ui .button-primary{
+	background:#0eb290!important;
+}
